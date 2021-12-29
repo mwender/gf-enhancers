@@ -14,7 +14,7 @@ Various enhancers for GravityForms. Activate and enjoy!
 
 This plugin provides the following enhancers for GravityForms:
 
-=== Merge Tags as Dynamic Population Parameters ===
+= Merge Tags as Dynamic Population Parameters =
 
 Gravity Forms does not support using merge tags as dynamic population parameters out of the box. This feature lets you use merge tags like `{embed_post:post_title}` and `{custom_field:price}` to dynamically set values. This is very helpful for times when you want to set a product field's price for example.
 
@@ -22,7 +22,3 @@ Gravity Forms does not support using merge tags as dynamic population parameters
 
 = 1.0 =
 * Allowing merge tags as dynamic population parameters.
-
-
-
-

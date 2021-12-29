@@ -7,9 +7,9 @@
  * Author URI:      https://mwender.com
  * Text Domain:     gf-ehancers
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         1.0.0
  *
  * @package         Gf_Ehancers
  */
 
-// Your code starts here.
+require_once 'lib/fns/mergetags.php';

@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     GravityForms Enhancers
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      https://github.com/mwender/gf-enhancers
  * Description:     Various enhancements for GravityForms. Activate and enjoy!
  * Author:          Michael Wender
  * Author URI:      https://mwender.com

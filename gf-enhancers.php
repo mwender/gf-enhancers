@@ -7,7 +7,7 @@
  * Author URI:      https://mwender.com
  * Text Domain:     gf-ehancers
  * Domain Path:     /languages
- * Version:         1.0.0
+ * Version:         1.0.1
  *
  * @package         Gf_Ehancers
  */

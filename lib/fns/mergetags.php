@@ -22,11 +22,11 @@ function prepopluate_merge_tags( $form ) {
     if( is_array( rgar( $field, 'inputs' ) ) && $field['type'] != 'checkbox' ) {
       foreach( $field->inputs as $input ) {
         if( $input['name'] ) {
-          $gw_filter_names[ $input['name'] ] = GFCommon::replace_variables_prepopulate( $input['name'] );
+          $gw_filter_names[ $input['name'] ] = \GFCommon::replace_variables_prepopulate( $input['name'] );
         }
       }
     } else {
-      $gw_filter_names[ $field->inputName ] = GFCommon::replace_variables_prepopulate( $field->inputName );
+      $gw_filter_names[ $field->inputName ] = \GFCommon::replace_variables_prepopulate( $field->inputName );
     }
 
   }
@@ -40,7 +40,7 @@ function prepopluate_merge_tags( $form ) {
         /** @var GF_Field $field  */
         if( $field->get_input_type() == 'list' ) {
           remove_all_filters( "gform_field_value_{$name}" );
-          $value = GFFormsModel::get_parameter_value( $name, array( $name => $value ), $field );
+          $value = \GFFormsModel::get_parameter_value( $name, array( $name => $value ), $field );
         }
         return $value;
       }, 10, 3 );

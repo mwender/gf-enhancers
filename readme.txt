@@ -22,6 +22,10 @@ Gravity Forms does not support using merge tags as dynamic population parameters
 
 See [GravityWiz: Dynamic Products via Post Meta](https://gravitywiz.com/dynamic-products-via-post-meta/)
 
+= Other suggestions? =
+
+Have any suggestions for other code snippets I should add to this plugin? Get in touch with me at [mwender.com](https://mwender.com).
+
 == Changelog ==
 
 = 1.0.1 =

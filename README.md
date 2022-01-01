@@ -1,4 +1,4 @@
-# GravityForms Enhancers #
+# Gravity Forms Enhancers #
 **Contributors:** [thewebist](https://profiles.wordpress.org/thewebist/)  
 **Tags:** gravityforms  
 **Requires at least:** 4.5  
@@ -8,11 +8,11 @@
 **License:** GPLv2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 
-Various enhancers for GravityForms. Activate and enjoy! "Get yourself an enhancer-er or two!"
+Various enhancers for Gravity Forms. Activate and enjoy! "Get yourself an enhancer-er or two!"
 
 ## Description ##
 
-This plugin provides the following enhancers for GravityForms:
+This plugin provides the following enhancers for Gravity Forms:
 
 ### Merge Tags as Dynamic Population Parameters ###
 

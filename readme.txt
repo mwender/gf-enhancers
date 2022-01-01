@@ -1,6 +1,6 @@
 === GravityForms Enhancers ===
 Contributors: TheWebist
-Tags: comments, spam
+Tags: gravityforms
 Requires at least: 4.5
 Tested up to: 5.8.2
 Requires PHP: 5.6
